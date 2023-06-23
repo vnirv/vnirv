@@ -1,4 +1,6 @@
-![image](https://img.shields.io/badge/JavaScript-E8257D.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![image](https://img.shields.io/badge/React-B93F98.svg?style=for-the-badge&logo=React&logoColor=black)
+![image](https://img.shields.io/badge/JavaScript-E8257D.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![image](https://img.shields.io/badge/React-B93F98.svg?style=for-the-badge&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-83509F.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-505593.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![image](https://img.shields.io/badge/styledcomponents-6C5B9F.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![image](https://img.shields.io/badge/Git-8861A8.svg?style=for-the-badge&logo=Git&logoColor=white)
