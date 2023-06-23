@@ -1,5 +1,5 @@
-![image](https://img.shields.io/badge/JavaScript-DA9BB7.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
-![image](https://img.shields.io/badge/React-B38AAE.svg?style=for-the-badge&logo=React&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-FFA7B7.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![image](https://img.shields.io/badge/React-E7A2CC.svg?style=for-the-badge&logo=React&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-B6A0CC.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-8C7A9F.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![image](https://img.shields.io/badge/styledcomponents-816C96.svg?style=for-the-badge&logo=styled-components&logoColor=white)
