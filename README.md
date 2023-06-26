@@ -5,4 +5,3 @@ my skills
 ![image](https://img.shields.io/badge/HTML5-9A76C2.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-9E61AD.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![image](https://img.shields.io/badge/styledcomponents-A04B95.svg?style=for-the-badge&logo=styled-components&logoColor=white)
-![image](https://img.shields.io/badge/Git-9F347B.svg?style=for-the-badge&logo=Git&logoColor=white)
